@@ -1,10 +1,10 @@
 # Parte II
 ## Integrantes
 *David* **Narvaez**\
-*Cristian* **Rodriguez**\
+*Cristian* **Rodriguez**
 ## Edades
-- Integrante I: 21\
-- Integrante II: 21\
+- Integrante I: 21
+- Integrante II: 21
 ## Signo zodiacal
 1. `Sagitario`
 2. `Sagitario`
