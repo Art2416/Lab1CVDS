@@ -16,8 +16,9 @@ Plan de estudios:
 
 # Parte III
 
-*Cristian* **Rodriguez**
-**Carnet:** *2163761*
+*Cristian* **Rodriguez**/
+**Carné:** *2163761*
 
 **Capturas:**
-![Imagen](\NarvaezRodriguez\Images\1.jpeg)
+![Imagen](https://github.com/Art2416/Lab1CVDS/blob/master/NarvaezRodriguez/Images/1.jpeg)
+
